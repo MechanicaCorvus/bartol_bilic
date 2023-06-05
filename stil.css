@@ -1,0 +1,38 @@
+@charset "utf-8";
+p {
+	color: white;
+	font-family: arial;
+	font-size: 20px;
+}   
+h1 {
+	color: antiquewhite;
+		font-family: arial;
+	    font-size: 40px;
+} 
+h2 {
+	color: antiquewhite;
+		font-family: arial;
+	    font-size: 30px;
+} 
+li {
+	color: antiquewhite;
+		font-family: arial;
+	    font-size: 20px;
+} 
+a {
+	color: antiquewhite;
+		font-family: arial;
+	    font-size: 20px;
+	    border: 1px solid #ff000;
+} 
+q {
+	color: antiquewhite;
+		font-family: arial;
+	    font-size: 20px;
+} 
+body {
+	background-image: url("slika 4.png");
+    background-size:     cover;                      
+    background-repeat:   no-repeat;
+    background-position: center center; 
+} 
